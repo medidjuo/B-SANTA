@@ -17,10 +17,10 @@
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/333.png",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
 
-  "admob_app_id": "ca-app-pub-3",
-  "admob_banner": "ca-app-pub-",
-  "admob_interstitial": "ca-app-pub-",
-  "admob_rewarded_video": "ca-app-pub",
+  "admob_app_id": "ca-app-pub-5688110051583408~7777784995",
+  "admob_banner": "ca-app-pub-5688110051583408/2786854755",
+  "admob_interstitial": "ca-app-pub-5688110051583408/5754256889",
+  "admob_rewarded_video": "ca-app-pub-5688110051583408/2006102037",
 
   "unity_app_id": "5482263",
   "unity_banner": "Banner_Android",
