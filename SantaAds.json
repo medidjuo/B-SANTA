@@ -1,21 +1,21 @@
 {
-      "max_count_ads": "15",
+      "max_count_ads": "13",
 
-      "our_ads1_activation":"false",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/111.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com",
+      "our_ads1_activation":"true",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/111.jpg",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.gangster.chase.openworld.simulation.game",
 
-    "our_ads2_activation":"false",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/main/22.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads2_activation":"true",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/main/222.jpg",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.gangster.chase.openworld.simulation.game",
 
-    "our_ads3_activation":"false",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/333.png",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads3_activation":"true",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/333.jpg",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.gangster.chase.openworld.simulation.game",
 
-    "our_ads_inter_activation":"false",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/333.png",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads_inter_activation":"true",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/B-SANTA/main/444.jpg",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.gangster.chase.openworld.simulation.game",
 
   "admob_app_id": "ca-app-pub-5688110051583408~7777784995",
   "admob_banner": "ca-app-pub-5688110051583408/2786854755",
